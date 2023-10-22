@@ -21,8 +21,6 @@ const data={
     price:data2['price']
 }
     return (
-        //check
-
         <div className="product-item">
                  <img src={`${data2.img}`} onError={(e) => e.target.src='https://www.primefaces.org/wp-content/uploads/2020/05/placeholder.png'} alt={data2.name} />
                  <div className="product-detail">
