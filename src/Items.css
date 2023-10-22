@@ -1,0 +1,16 @@
+.item{
+    border: 1.3px solid rgb(179, 179, 179);
+    width: 400px;
+    height: 480px;
+    /* flex: 1; */
+    margin: auto;
+    margin-top: 5px;
+}
+.body{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+width: 85%;
+margin: auto;
+}

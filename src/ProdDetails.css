@@ -1,0 +1,17 @@
+#bigDiv{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.butDisplay{
+    display: none;
+}
+#exit{
+    display: flex;
+}
+#pic{
+    width: 100%;
+
+}

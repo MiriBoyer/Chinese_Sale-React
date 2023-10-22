@@ -1,0 +1,8 @@
+#card{
+padding-top: 3px;
+    position: fixed;
+width: 100%;
+background-color: white;
+z-index: 2;
+box-shadow: 2px 2px 5px #aaaaaa;  text-align:center;
+}

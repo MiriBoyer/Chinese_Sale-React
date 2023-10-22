@@ -1,0 +1,17 @@
+.details{
+justify-content: center;
+box-shadow:5px 5px 5px 5px #aaaaaa;
+ text-align:left;
+ padding: 25px;
+ margin: 100px;
+align-items: flex-end;
+}
+.d{
+   display: flex;
+    flex-direction: column; 
+}
+.submit{
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
